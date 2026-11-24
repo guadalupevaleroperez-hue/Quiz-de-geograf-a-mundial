@@ -1,0 +1,8 @@
+¿Cuál es la capital de Australia?|Canberra|Sídney|Melbourne|Perth|Canberra
+¿Cuál es el río más largo del mundo?|Amazonas|Nilo|Yangtsé|Misisipi|Amazonas
+¿Cuál es la montaña más alta de América?|Aconcagua|Denali|Huascarán|Chimborazo|Aconcagua
+¿Qué país tiene forma de bota?|Italia|España|Grecia|Portugal|Italia
+¿Cuál es la capital de Canadá?|Toronto|Vancouver|Ottawa|Montreal|Ottawa
+¿Cuál es el río más largo de Europa?|Danubio|Volga|Rin|Sena|Volga
+¿Cuál es la montaña más alta del mundo?|K2|Kangchenjunga|Everest|Lhotse|Everest
+¿Cuál es la capital de Japón?|Kioto|Osaka|Tokio|Nagoya|Tokio
